@@ -2,11 +2,11 @@
 
 下記のガントチャート関連の3つのパッチを手修正したものです。
 
-Feature #20481: ガントチャートの表示領域の幅をドラッグでリサイズ 
-http://www.redmine.org/issues/20481
-Feature #10485: ガントチャートでコンテキストメニューを表示 
-http://www.redmine.org/issues/10485#note-10
-Feature #26409: ガントチャートに担当者を表示 
+Feature #20481: ガントチャートの表示領域の幅をドラッグでリサイズ   
+http://www.redmine.org/issues/20481  
+Feature #10485: ガントチャートでコンテキストメニューを表示  
+http://www.redmine.org/issues/10485#note-10  
+Feature #26409: ガントチャートに担当者を表示   
 http://www.redmine.org/issues/26409#note-2
 
 各ファイルを下記フォルダにコピーしてください。
